@@ -23,6 +23,11 @@ I have been interested in coding from the ripe age of 11 years old. I started of
   - CSS
   - JavaScript
   - Python (Rusty)
+  
+- Frameworks:
+  - React
+  - Next
+  - Tailwind
 
 - Experience:
   - Mentored for 3 months by [Mukund Iyengar](https://faculty.stevens.edu/miyengar) Director of Launchpad
@@ -45,6 +50,10 @@ I have been interested in coding from the ripe age of 11 years old. I started of
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=sinon)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # :bar_chart: Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ouckah)](https://github.com/anuraghazra/github-readme-stats)
