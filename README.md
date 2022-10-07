@@ -4,7 +4,7 @@
 My name is Aidan and I am a Computer Science student!
 
 ```java
-public class Aidan ()
+public class Aidan
 {
   private int age = 17;
   public String[] traits = new String[] { "dumb", "short", "nerd" };
