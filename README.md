@@ -47,6 +47,7 @@ I have been interested in coding from the ripe age of 11 years old. I started of
   - Self-teaching AI / Machine Learning
   - Grinding LeetCode
   - Interning for NUKEMAP this summer
+  - Participating in Launchpad@Stevens
 -----
 
 # Tech Stack
