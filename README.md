@@ -25,9 +25,16 @@ I have been interested in coding from the ripe age of 11 years old. I started of
   - Python (Rusty)
   
 - Frameworks:
+  - Node
   - React
+  - React Native
   - Next
   - Tailwind
+
+- Tools:
+  - VS Code
+  - Unity
+  - Expo
 
 - Experience:
   - Mentored for 3 months by [Mukund Iyengar](https://faculty.stevens.edu/miyengar) Director of Launchpad
@@ -37,9 +44,9 @@ I have been interested in coding from the ripe age of 11 years old. I started of
 
 # :round_pushpin: What Am I Doing?
 - :clipboard: Currently I am:
-  - Developing my personal website portfolio
-  - Learning about GitHub
-  - Landing a software developer internship for this Summer
+  - Self-teaching AI / Machine Learning
+  - Grinding LeetCode
+  - Interning for NUKEMAP this summer
 -----
 
 # Tech Stack
@@ -51,9 +58,15 @@ I have been interested in coding from the ripe age of 11 years old. I started of
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next](https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=sinon)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+
 
 # :bar_chart: Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ouckah)](https://github.com/anuraghazra/github-readme-stats)
