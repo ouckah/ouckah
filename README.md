@@ -15,27 +15,6 @@ public class Aidan
 I have been interested in coding from the ripe age of 11 years old. I started off coding using block Scratch code and grew to learn line langauges such as Python and Java. At 13 I used my Java knowledge to experiment with Minecraft plugins and started to create my own. At around 14 - 15 I started to try creating my own games in Unity, where I dipped my toes into C#. Now I am playing around with Web Design and languages such as HTML, CSS and JavaScript. I have tried tools such as Node.js and React, however, I am still learning!
 
 ### :briefcase: Credentials
-
-- Code:
-  - Java
-  - C#
-  - HTML
-  - CSS
-  - JavaScript
-  - Python (Rusty)
-  
-- Frameworks:
-  - Node
-  - React
-  - React Native
-  - Next
-  - Tailwind
-
-- Tools:
-  - VS Code
-  - Unity
-  - Expo
-
 - Experience:
   - Mentored for 3 months by [Mukund Iyengar](https://faculty.stevens.edu/miyengar) Director of Launchpad
   - Self-Taught Game Developer (2 Years) and Front-End Web Developer (1 Year)
