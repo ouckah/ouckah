@@ -12,6 +12,11 @@ public class Aidan
 }
 ```
 
+### :smirk: Other Accounts
+Other accounts at companies I have worked at:
+- [@aidandashama](https://github.com/aidandashama) - DoorDash
+- [@aidanbarkama](https://github.com/aidanbarkama) - Datadog
+
 I have been interested in coding from the ripe age of 11 years old. I started off coding using block Scratch code and grew to learn line langauges such as Python and Java. At 13 I used my Java knowledge to experiment with Minecraft plugins and started to create my own. At around 14 - 15 I started to try creating my own games in Unity, where I dipped my toes into C#. Now I am playing around with Web Design and languages such as HTML, CSS and JavaScript. I have tried tools such as Node.js and React, however, I am still learning!
 
 ### :briefcase: Credentials
