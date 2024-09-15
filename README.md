@@ -1,4 +1,4 @@
-### Hi There! My name is Ouckah.
+### Hi There! My name is ouckah.
 -----
 # :postbox: About Me
 My name is Aidan and I am a Computer Science student!
